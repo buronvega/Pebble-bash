@@ -1,6 +1,6 @@
 # Pebble/bash 2.0+
 
-![bash2.0 preview](https://github.com/buronvega/Pebble-bash/blob/master/2.0/preview.png?raw=true)
+![bash2.0 preview](https://github.com/buronvega/Pebble-bash/blob/master/SDK%202.0/preview.png?raw=true)
 
 ## About
 

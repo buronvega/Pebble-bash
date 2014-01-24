@@ -12,3 +12,6 @@ Design by [@buronvega](http://twitter.com/buronvega)
 
 ## Installing face
 Download .pbw file, then open it using Pebble app (iOS/Android)
+
+## App Store?
+Coming soon will be available at the Pebble App Store!
